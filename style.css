@@ -46,6 +46,11 @@ header {
   font-weight: bold;
 }
 
+.button2 {
+   color: black;
+   text-decoration:underline;
+}
+
 .tagline {
   font-size: 1.2rem;
   opacity: 0.9;
